@@ -1,12 +1,3 @@
-<?php
-/**
- * header.php
- * @author 		ErbaWebID
- * @package   etheme
- * @version 	1.0
- * @since 		23/06/2019
- */
-?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>

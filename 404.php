@@ -1,12 +1,4 @@
-<?php
-/**
- * Displaying 404 pages (Not Found)
- * @author 		ErbaWebID
- * @package   etheme
- * @version 	1.0
- * @since 		23/06/2019
- */
-get_header(); ?>
+<?php get_header(); ?>
 
 <style media="screen">
 .\34 04 {
